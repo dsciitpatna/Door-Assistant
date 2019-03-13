@@ -32,7 +32,7 @@ The use cases for this product extends to:
 
 Example installation:
 
-<img src="mount.jpg" style="max-width:200px;"/>
+<img src="mount.jpg" width=200px/>
 
 [Video of working](https://drive.google.com/file/d/1Czr-MOq_-vULsIv5ZY8cQAZ6UCjFAal0/view?usp=sharing)
 
