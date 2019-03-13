@@ -27,15 +27,16 @@ The use cases for this product extends to:
 - Install the app in your phone
 - Mount the device in such a way that when the door is closed, there is an obstacle in front of the sensor at a distance of 5 cm
 - The NodeMCU must be connected to a WiFi network with internet connection
-- To start the sensor click on the on button on the app, if you see a red light on the NodeMCU that indicates your sensor is on
+- To start the sensor click on the on button on the app
+- If you see a red light on the NodeMCU, that indicates your sensor has been turned on
 
 Example installation:
 
-![](mount.jpg)
+<img src="mount.jpg" style="max-width:200px;"/>
 
-[Video of working](https://drive.google.com/drive/folders/1-dNoRVLzTiHC-ksjnd2u3Gr-fKl4mVb0)
+[Video of working](https://drive.google.com/file/d/1Czr-MOq_-vULsIv5ZY8cQAZ6UCjFAal0/view?usp=sharing)
 
 ### Team
 
-Mentor - Arya Das
-Contributor - Akash Das
+- Contributor - Akash Das
+- Mentor - Arya Das
